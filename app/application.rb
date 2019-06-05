@@ -35,12 +35,4 @@ class Application
     resp.finish
   end
  
-end      resp.write "You Win"
-    else
-      resp.write "You Lose"
-    end
- 
-    resp.finish
-  end
- 
 end
